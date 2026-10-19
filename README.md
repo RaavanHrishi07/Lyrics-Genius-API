@@ -127,6 +127,8 @@ Lyrics-Genius-API/
 
 GitHub: [@RaavanHrishi07](https://github.com/RaavanHrishi07)
 
----
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ⭐ If you find this project useful, consider giving the repository a star.
